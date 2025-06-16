@@ -43,6 +43,7 @@
 ## Projetos
 ### Estetica Para Todos
 [![Blog](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://esteticaparatodos.netlify.app)
+[![Blog](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]([https://projetodecomission.netlify.app/])
 
 ## IDE: 
 [![Blog](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)]()
